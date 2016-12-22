@@ -1,2 +1,2 @@
-# agenciaTemplate
-Layout de uma agência digital
+# AgenciaTemplate
+Layout responsivo de uma agência digital.
